@@ -10,7 +10,7 @@ _Software developer based in Munich, Germany_</br>
 |----|---|
 |11/2017 - today|Senior Technical Consultant</br>bbv Software Services GmbH, Munich|
 |02/2002 - 09/2017|Software Developer </br> Sulzer GmbH, Munich|
-|03/2000 - 01/2002|Software Developer</br>ELAXY, Puchheim|
+|03/2000 - 01/2002|Software Developer<br>ELAXY, Puchheim|
 
 ## projects
 
